@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.6",
-    "@prisma/client": "^4.14.0",
+    "@prisma/client": "^4.14.1",
     "autoprefixer": "10.4.14",
     "next": "13.4.2",
     "next-auth": "^4.22.1",
@@ -20,6 +20,6 @@
     "tailwindcss": "3.3.2"
   },
   "devDependencies": {
-    "prisma": "^4.14.0"
+    "prisma": "^4.14.1"
   }
 }
